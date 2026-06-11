@@ -57,7 +57,7 @@ const Navbar = () => {
           {/* Logo */}
           <Link to="/" className="absolute left-1/2 -translate-x-1/2">
             <h1 className="text-2xl lg:text-3xl font-serif tracking-[0.3em] gold-text font-semibold">
-              KHAAS
+              Dharohar
             </h1>
           </Link>
 

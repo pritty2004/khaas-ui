@@ -7,7 +7,7 @@ const testimonials = [
     location: "Mumbai",
   },
   {
-    text: "KHAAS is the only brand where luxury meets soul. My wedding bangles were nothing short of heirloom pieces.",
+    text: "Dharohar is the only brand where luxury meets soul. My wedding bangles were nothing short of heirloom pieces.",
     author: "Ananya Reddy",
     location: "Hyderabad",
   },

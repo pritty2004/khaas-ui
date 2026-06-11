@@ -30,7 +30,7 @@ const HeroSection = () => {
               className="text-4xl md:text-6xl lg:text-7xl font-serif leading-[1.1] mb-6 opacity-0 animate-fade-in"
               style={{ animationDelay: "0.5s" }}
             >
-              <span className="gold-text">KHAAS:</span>
+              <span className="gold-text">Dharohar:</span>
               <br />
               <span className="text-foreground">The New</span>
               <br />

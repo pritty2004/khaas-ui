@@ -126,10 +126,10 @@ const FooterSection = () => {
         {/* Bottom */}
         <div className="mt-12 pt-8 border-t border-border flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-2xl font-serif tracking-[0.3em] gold-text font-semibold">
-            KHAAS
+            Dharohar
           </p>
           <p className="text-xs text-muted-foreground font-sans">
-            © 2026 KHAAS. All rights reserved. Handcrafted with love in India.
+            © 2026 Dharohar. All rights reserved. Handcrafted with love in India.
           </p>
         </div>
       </div>

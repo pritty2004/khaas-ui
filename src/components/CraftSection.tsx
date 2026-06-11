@@ -44,7 +44,7 @@ const CraftSection = () => {
               Fire & Stone
             </h2>
             <p className="text-muted-foreground font-sans font-light mb-12 max-w-md">
-              Every KHAAS bangle passes through the hands of artisans who have
+              Every Dharohar bangle passes through the hands of artisans who have
               dedicated their lives to the ancient craft of Indian jewelry making.
             </p>
 
